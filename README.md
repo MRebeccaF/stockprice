@@ -1,2 +1,2 @@
-# stockprice
 This repository contains the source code for stock price prediction.
+The primary aim of the project is to develop a robust stock price prediction model using historical stock market data. By leveraging advanced machine learning algorithms and statistical analysis, the project intends to forecast future stock prices accurately. This predictive model could be instrumental for investors, traders, and financial analysts in making informed decisions.
